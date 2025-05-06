@@ -1,5 +1,3 @@
-# Sudoku-Gama
-Sudoku Using Tabu Search and GUI Integration in Python
 # 4x4 Sudoku Solver Using Tabu Search with GUI
 
 ## Overview
