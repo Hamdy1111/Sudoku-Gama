@@ -19,4 +19,4 @@ This project provides a Python-based solver for 4x4 Sudoku puzzles using the **T
 1. Clone the repository.
 2. Run the Python script:
    ```bash
-   python sudoku_tabu_gui.py
+   python Sudoku4x4.py
